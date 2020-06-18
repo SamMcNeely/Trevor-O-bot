@@ -1,0 +1,28 @@
+{
+    "colors" : [
+        { "name" : "White", "color" : "WHITE"},
+        { "name" : "Aqua", "color" : "AQUA" },
+        { "name" : "Green", "color" : "GREEN"},
+        { "name" : "Blue", "color" : "BLUE"},
+        { "name" : "Yellow", "color" : "YELLOW"},
+        { "name" : "Purple", "color" : "PURPLE"},
+        { "name" : "Hot Pink", "color" : "LUMINOUS_VIVID_PINK"},
+        { "name" : "Gold", "color" : "GOLD"},
+        { "name" : "Orange", "color" : "ORANGE"},
+        { "name" : "Red", "color" : "RED"},
+        { "name" : "Grey", "color" : "GREY"},
+        { "name" : "Darker Grey", "color" : "DARKER_GREY"},
+        { "name" : "Navy", "color" : "NAVY"},
+        { "name" : "Dark Aqua", "color" : "DARK_AQUA"},
+        { "name" : "Dark Green", "color" : "DARK_GREEN"},
+        { "name" : "Dark Blue", "color" : "DARK_BLUE"},
+        { "name" : "Dark Purple", "color" : "DARK_PURPLE"},
+        { "name" : "Pink", "color" : "DARK_VIVID_PINK"},
+        { "name" : "Dark Gold", "color" : "DARK_GOLD"},
+        { "name" : "Dark Orange", "color" : "DARK_ORANGE"},
+        { "name" : "Dark Red", "color" : "DARK_RED"},
+        { "name" : "Dark Grey", "color" : "DARK_GREY"},
+        { "name" : "Light Grey", "color" : "LIGHT_GREY"},
+        { "name" : "Dark Navy", "color" : "DARK_NAVY"}
+    ]
+}
